@@ -1,0 +1,13 @@
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\bin\Debug\UnitSwapper.exe.config
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\bin\Debug\UnitSwapper.exe
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\bin\Debug\UnitSwapper.pdb
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.csprojResolveAssemblyReference.cache
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.Form1.resources
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.Properties.Resources.resources
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.csproj.GenerateResource.Cache
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.exe
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.pdb
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\bin\Debug\UnitSwapper.exe.manifest
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\bin\Debug\UnitSwapper.application
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.exe.manifest
+c:\users\hal\documents\visual studio 2015\Projects\UnitSwapper\UnitSwapper\obj\Debug\UnitSwapper.application
